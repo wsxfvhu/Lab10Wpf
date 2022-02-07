@@ -7,8 +7,8 @@
         mc:Ignorable="d"
         Title="Отражение" Height="600" Width="800" Background="#FFCCCCCC" >
     <StackPanel>
-        <Border BorderBrush="White" BorderThickness="5" HorizontalAlignment="Center" Height="136">
-            <Image Source="Picture/1536x864.jpg" Width="200" x:Name="myImage" Margin="0,0,0,-2"/>
+        <Border BorderBrush="White" BorderThickness="5" HorizontalAlignment="Center" Height="140">
+            <Image Source="Picture/1536x864.jpg" Width="200" x:Name="myImage" Margin="0,0,0,0"/>
             <Border.Effect>
                 <DropShadowEffect Color="Black" Direction="40" ShadowDepth="12" Opacity="0.4"/>
             </Border.Effect>
